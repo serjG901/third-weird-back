@@ -1,0 +1,11 @@
+{
+  "name": "third-weird-back",
+  "version": "0.0.1",
+  "description": "The game by video chats",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "serjg901",
+  "license": "ISC"
+}
